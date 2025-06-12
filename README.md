@@ -25,5 +25,5 @@ This data analysis project aims to understand and evaluate the financial perform
 ## How to Reproduce
 
 1.  Import your raw Excel data files into SQL Server.
-2.  Execute the project's SQL query (located in "FinalProjectSQL.sql") to generate the final processed data.
+2.  Execute the project's SQL query (located in "Hotel_Financial_Analysis_Query.sql") to generate the final processed data.
 3.  Use Microsoft Excel to build the dashboard based on the extracted data.
